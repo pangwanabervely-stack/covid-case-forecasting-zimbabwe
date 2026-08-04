@@ -7,7 +7,7 @@
 This project forecasts weekly COVID-19 case counts for Zimbabwe using two
 different modeling approaches a classic statistical time-series model
 (ARIMA) and a machine learning approach (Random Forest with engineered lag
-features) — and rigorously compares their performance against each other
+features)  and rigorously compares their performance against each other
 and a naive baseline.
 
 **Note:** This is a technical forecasting exercise using historical public
